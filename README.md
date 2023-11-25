@@ -23,6 +23,7 @@
 - HECO Chain
 - Near
 - Flare
+- Base
 
 ### Connect with us:
 
